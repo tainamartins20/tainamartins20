@@ -4,9 +4,13 @@
 
 <h1>🙋🏻‍♀️Sobre mim</h1>
 * 🌸 Tenho 18 anos <br>
+<br>
 * 🌄 Louveira, SP - Brasil <br>
+<br>
 * 💻 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack <br>
+<br>
 * 💬 Converse comigo sobre Python, desenvolvimento web, ou apenas para trocar experiências <br>
+<br>
 
 
 
