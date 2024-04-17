@@ -1,9 +1,14 @@
-### Oii, bem-vindo(a) ao meu perfil. Me chamo Taina!
+### Bem-vindo(a) ao meu perfil. Me chamo Taina!
+<br>
 
-* 🌸 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack
-* 📚 Atualmente aprendendo Python e explorando o mundo do desenvolvimento web
-* 💻 Interessada em projetos colaborativos e desafios que me permitam expandir meus conhecimentos
-* 💌 Como entrar em contato comigo: tainamartinsdev@gmail.com
+
+<h1>🙋🏻‍♀️Sobre mim</h1>
+* 🌸 Tenho 18 anos
+* 🌄 Louveira, SP - Brasil
+* 💻 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack
+* 💬 Converse comigo sobre Python, desenvolvimento web, ou apenas para trocar experiências
+
+
 
 <br>
 <br>
@@ -17,7 +22,7 @@
 <br>
 
 
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Linguagens de programação:</b>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Linguagens de programação:</b>
 
   
 
