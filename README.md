@@ -3,10 +3,10 @@
 
 
 <h1>🙋🏻‍♀️Sobre mim</h1>
-* 🌸 Tenho 18 anos
-* 🌄 Louveira, SP - Brasil
-* 💻 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack
-* 💬 Converse comigo sobre Python, desenvolvimento web, ou apenas para trocar experiências
+* 🌸 Tenho 18 anos <br>
+* 🌄 Louveira, SP - Brasil <br>
+* 💻 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack <br>
+* 💬 Converse comigo sobre Python, desenvolvimento web, ou apenas para trocar experiências <br>
 
 
 
