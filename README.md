@@ -3,7 +3,7 @@
 * 🌸 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack
 * 📚 Atualmente aprendendo Python e explorando o mundo do desenvolvimento web
 * 💻 Interessada em projetos colaborativos e desafios que me permitam expandir meus conhecimentos
-* 💌 Como entrar em contato comigo:
+* 💌 Como entrar em contato comigo: tainamartinsdev@gmail.com
 
 <br>
 <br>
