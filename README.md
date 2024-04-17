@@ -1,4 +1,4 @@
-### Oii, meu nome é Taina
+### Oii, bem-vindo(a) ao meu perfil. Me chamo Taina!
 
 * 🌸 Sou uma estudante apaixonada por tecnologia, buscando se tornar uma desenvolvedora full stack
 * 📚 Atualmente aprendendo Python e explorando o mundo do desenvolvimento web
