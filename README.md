@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao meu perfil. Me chamo Taina!
+### Bem-vindo(a) ao meu perfil. Me chamo Tainá!
 <br>
 
 
