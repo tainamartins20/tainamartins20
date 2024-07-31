@@ -10,9 +10,6 @@
 <br>
 * 💻 Sou uma estudante apaixonada por tecnologia <br>
 <br>
-* 💬 Converse comigo sobre Python, desenvolvimento web, ou apenas para trocar experiências <br>
-<br>
-
 
 
 <br>
